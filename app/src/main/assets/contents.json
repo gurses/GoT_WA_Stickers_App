@@ -1,0 +1,467 @@
+{
+  "android_play_store_link": "",
+  "ios_app_store_link": "",
+  "sticker_packs": [
+    {
+      "identifier": "1",
+      "name": "Got Stickers 1",
+      "publisher": "Gurses Armutcu",
+      "tray_image_file": "tray_deneme1.png",
+      "image_data_version":"1",
+      "avoid_cache":false,
+      "publisher_email":"",
+      "publisher_website": "",
+      "privacy_policy_website": "",
+      "license_agreement_website": "",
+      "stickers": [
+
+
+        {
+          "image_file": "sticker_1.webp",
+          "emojis": ["☕","🙂"]
+        },
+        {
+          "image_file": "sticker_2.webp",
+          "emojis": ["☕","🙂"]
+        },
+        {
+          "image_file": "sticker_3.webp",
+          "emojis": ["☕","🙂"]
+        },
+        {
+          "image_file": "sticker_4.webp",
+          "emojis": ["☕","🙂"]
+        },
+        {
+          "image_file": "sticker_5.webp",
+          "emojis": ["☕","🙂"]
+        },
+        {
+          "image_file": "sticker_6.webp",
+          "emojis": ["☕","🙂"]
+        },
+        {
+          "image_file": "sticker_7.webp",
+          "emojis": ["☕","🙂"]
+        },
+        {
+          "image_file": "sticker_8.webp",
+          "emojis": ["☕","🙂"]
+        },
+        {
+          "image_file": "sticker_9.webp",
+          "emojis": ["☕","🙂"]
+        },
+        {
+          "image_file": "sticker_10.webp",
+          "emojis": ["☕","🙂"]
+        },
+        {
+          "image_file": "sticker_11.webp",
+          "emojis": ["☕","🙂"]
+        },
+        {
+          "image_file": "sticker_12.webp",
+          "emojis": ["☕","🙂"]
+        },
+        {
+          "image_file": "sticker_13.webp",
+          "emojis": ["☕","🙂"]
+        },
+        {
+          "image_file": "sticker_14.webp",
+          "emojis": ["☕","🙂"]
+        },
+        {
+          "image_file": "sticker_15.webp",
+          "emojis": ["☕","🙂"]
+        }
+      ]
+    },
+    {
+      "identifier": "2",
+      "name": "Got Stickers 2",
+      "publisher": "Gurses Armutcu",
+      "tray_image_file": "tray_deneme2.png",
+      "image_data_version":"1",
+      "avoid_cache":false,
+      "publisher_email":"",
+      "publisher_website": "",
+      "privacy_policy_website": "",
+      "license_agreement_website": "",
+      "stickers": [
+
+        {
+          "image_file": "sticker_1.webp",
+          "emojis": ["☕","🙂"]
+        },
+        {
+          "image_file": "sticker_2.webp",
+          "emojis": ["☕","🙂"]
+        },
+        {
+          "image_file": "sticker_3.webp",
+          "emojis": ["☕","🙂"]
+        },
+        {
+          "image_file": "sticker_5.webp",
+          "emojis": ["☕","🙂"]
+        },
+        {
+          "image_file": "sticker_6.webp",
+          "emojis": ["☕","🙂"]
+        },
+        {
+          "image_file": "sticker_7.webp",
+          "emojis": ["☕","🙂"]
+        },
+        {
+          "image_file": "sticker_8.webp",
+          "emojis": ["☕","🙂"]
+        },
+        {
+          "image_file": "sticker_9.webp",
+          "emojis": ["☕","🙂"]
+        },
+        {
+          "image_file": "sticker_10.webp",
+          "emojis": ["☕","🙂"]
+        },
+        {
+          "image_file": "sticker_11.webp",
+          "emojis": ["☕","🙂"]
+        },
+        {
+          "image_file": "sticker_12.webp",
+          "emojis": ["☕","🙂"]
+        },
+        {
+          "image_file": "sticker_13.webp",
+          "emojis": ["☕","🙂"]
+        },
+        {
+          "image_file": "sticker_14.webp",
+          "emojis": ["☕","🙂"]
+        },
+        {
+          "image_file": "sticker_15.webp",
+          "emojis": ["☕","🙂"]
+        },
+        {
+          "image_file": "sticker_16.webp",
+          "emojis": ["☕","🙂"]
+        },
+        {
+          "image_file": "sticker_17.webp",
+          "emojis": ["☕","🙂"]
+        }, {
+          "image_file": "sticker_18.webp",
+          "emojis": ["☕","🙂"]
+        },
+        {
+          "image_file": "sticker_19.webp",
+          "emojis": ["☕","🙂"]
+        }, {
+          "image_file": "sticker_20.webp",
+          "emojis": ["☕","🙂"]
+        },
+        {
+          "image_file": "sticker_21.webp",
+          "emojis": ["☕","🙂"]
+        }
+      ]
+    },
+    {
+      "identifier": "3",
+      "name": "Got Stickers 3",
+      "publisher": "Gurses Armutcu",
+      "tray_image_file": "tray_deneme3.png",
+      "image_data_version":"1",
+      "avoid_cache":false,
+      "publisher_email":"",
+      "publisher_website": "",
+      "privacy_policy_website": "",
+      "license_agreement_website": "",
+      "stickers": [
+
+        {
+          "image_file": "sticker_1.webp",
+          "emojis": ["☕","🙂"]
+        },
+        {
+          "image_file": "sticker_2.webp",
+          "emojis": ["☕","🙂"]
+        },
+        {
+          "image_file": "sticker_3.webp",
+          "emojis": ["☕","🙂"]
+        },
+        {
+          "image_file": "sticker_4.webp",
+          "emojis": ["☕","🙂"]
+        },
+        {
+          "image_file": "sticker_5.webp",
+          "emojis": ["☕","🙂"]
+        },
+        {
+          "image_file": "sticker_6.webp",
+          "emojis": ["☕","🙂"]
+        },
+        {
+          "image_file": "sticker_7.webp",
+          "emojis": ["☕","🙂"]
+        },
+        {
+          "image_file": "sticker_8.webp",
+          "emojis": ["☕","🙂"]
+        },
+        {
+          "image_file": "sticker_9.webp",
+          "emojis": ["☕","🙂"]
+        },
+        {
+          "image_file": "sticker_10.webp",
+          "emojis": ["☕","🙂"]
+        }
+      ]
+    },
+    {
+      "identifier": "4",
+      "name": "Got Stickers 4",
+      "publisher": "Gurses Armutcu",
+      "tray_image_file": "tray_deneme4.png",
+      "image_data_version":"1",
+      "avoid_cache":false,
+      "publisher_email":"",
+      "publisher_website": "",
+      "privacy_policy_website": "",
+      "license_agreement_website": "",
+      "stickers": [
+
+        {
+          "image_file": "sticker_1.webp",
+          "emojis": ["☕","🙂"]
+        },
+        {
+          "image_file": "sticker_2.webp",
+          "emojis": ["☕","🙂"]
+        },
+        {
+          "image_file": "sticker_3.webp",
+          "emojis": ["☕","🙂"]
+        },
+        {
+          "image_file": "sticker_4.webp",
+          "emojis": ["☕","🙂"]
+        },
+        {
+          "image_file": "sticker_5.webp",
+          "emojis": ["☕","🙂"]
+        },
+        {
+          "image_file": "sticker_6.webp",
+          "emojis": ["☕","🙂"]
+        },
+        {
+          "image_file": "sticker_7.webp",
+          "emojis": ["☕","🙂"]
+        },
+        {
+          "image_file": "sticker_8.webp",
+          "emojis": ["☕","🙂"]
+        },
+        {
+          "image_file": "sticker_9.webp",
+          "emojis": ["☕","🙂"]
+        },
+        {
+          "image_file": "sticker_10.webp",
+          "emojis": ["☕","🙂"]
+        },
+        {
+          "image_file": "sticker_11.webp",
+          "emojis": ["☕","🙂"]
+        },
+        {
+          "image_file": "sticker_12.webp",
+          "emojis": ["☕","🙂"]
+        }
+      ]
+    },
+    {
+      "identifier": "5",
+      "name": "Got Stickers 5",
+      "publisher": "Gurses Armutcu",
+      "tray_image_file": "tray_deneme5.png",
+      "image_data_version":"1",
+      "avoid_cache":false,
+      "publisher_email":"",
+      "publisher_website": "",
+      "privacy_policy_website": "",
+      "license_agreement_website": "",
+      "stickers": [
+
+        {
+          "image_file": "sticker_1.webp",
+          "emojis": ["☕","🙂"]
+        },
+        {
+          "image_file": "sticker_2.webp",
+          "emojis": ["☕","🙂"]
+        },
+        {
+          "image_file": "sticker_3.webp",
+          "emojis": ["☕","🙂"]
+        },
+        {
+          "image_file": "sticker_4.webp",
+          "emojis": ["☕","🙂"]
+        },
+        {
+          "image_file": "sticker_5.webp",
+          "emojis": ["☕","🙂"]
+        },
+        {
+          "image_file": "sticker_6.webp",
+          "emojis": ["☕","🙂"]
+        },
+        {
+          "image_file": "sticker_7.webp",
+          "emojis": ["☕","🙂"]
+        },
+        {
+          "image_file": "sticker_8.webp",
+          "emojis": ["☕","🙂"]
+        },
+        {
+          "image_file": "sticker_9.webp",
+          "emojis": ["☕","🙂"]
+        },
+        {
+          "image_file": "sticker_10.webp",
+          "emojis": ["☕","🙂"]
+        },
+        {
+          "image_file": "sticker_11.webp",
+          "emojis": ["☕","🙂"]
+        },
+        {
+          "image_file": "sticker_12.webp",
+          "emojis": ["☕","🙂"]
+        },
+        {
+          "image_file": "sticker_13.webp",
+          "emojis": ["☕","🙂"]
+        }
+      ]
+    },
+    {
+      "identifier": "6",
+      "name": "Got Stickers 6",
+      "publisher": "Gurses Armutcu",
+      "tray_image_file": "tray_deneme6.png",
+      "image_data_version":"1",
+      "avoid_cache":false,
+      "publisher_email":"",
+      "publisher_website": "",
+      "privacy_policy_website": "",
+      "license_agreement_website": "",
+      "stickers": [
+
+        {
+          "image_file": "sticker_1.webp",
+          "emojis": ["☕","🙂"]
+        },
+        {
+          "image_file": "sticker_2.webp",
+          "emojis": ["☕","🙂"]
+        },
+        {
+          "image_file": "sticker_3.webp",
+          "emojis": ["☕","🙂"]
+        },
+        {
+          "image_file": "sticker_4.webp",
+          "emojis": ["☕","🙂"]
+        },
+        {
+          "image_file": "sticker_5.webp",
+          "emojis": ["☕","🙂"]
+        },
+        {
+          "image_file": "sticker_6.webp",
+          "emojis": ["☕","🙂"]
+        },
+        {
+          "image_file": "sticker_7.webp",
+          "emojis": ["☕","🙂"]
+        },
+        {
+          "image_file": "sticker_8.webp",
+          "emojis": ["☕","🙂"]
+        },
+        {
+          "image_file": "sticker_9.webp",
+          "emojis": ["☕","🙂"]
+        },
+        {
+          "image_file": "sticker_10.webp",
+          "emojis": ["☕","🙂"]
+        }
+      ]
+    },
+    {
+      "identifier": "7",
+      "name": "Got Stickers 7",
+      "publisher": "Gurses Armutcu",
+      "tray_image_file": "tray_deneme7.png",
+      "image_data_version":"1",
+      "avoid_cache":false,
+      "publisher_email":"",
+      "publisher_website": "",
+      "privacy_policy_website": "",
+      "license_agreement_website": "",
+      "stickers": [
+
+        {
+          "image_file": "sticker_1.webp",
+          "emojis": ["☕","🙂"]
+        },
+        {
+          "image_file": "sticker_2.webp",
+          "emojis": ["☕","🙂"]
+        },
+        {
+          "image_file": "sticker_3.webp",
+          "emojis": ["☕","🙂"]
+        },
+        {
+          "image_file": "sticker_4.webp",
+          "emojis": ["☕","🙂"]
+        },
+        {
+          "image_file": "sticker_5.webp",
+          "emojis": ["☕","🙂"]
+        },
+        {
+          "image_file": "sticker_6.webp",
+          "emojis": ["☕","🙂"]
+        },
+        {
+          "image_file": "sticker_7.webp",
+          "emojis": ["☕","🙂"]
+        },
+        {
+          "image_file": "sticker_8.webp",
+          "emojis": ["☕","🙂"]
+        },
+        {
+          "image_file": "sticker_9.webp",
+          "emojis": ["☕","🙂"]
+        }
+      ]
+    }
+
+  ]
+}
